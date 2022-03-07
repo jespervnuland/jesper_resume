@@ -6,11 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	font-family: Lato, Impact, Haettenschweiler, Cambria, 'Hoefler Text', 'Liberation Serif', Times, Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif''serif''Arial Black', 'sans-serif'Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #1e213d;
+	background-color: #1e213d;
 }
-
+h1 a {
+	color:#006ec7;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -36,7 +38,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #1e213d;
 }
 
 .biography-details li, .skill-list li {
@@ -49,3 +51,20 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.language-progress {
+	background-color:#006ec7;
+}
+
+.language-progress {
+	background-color:#006ec7;
+}
+
+.language-progress {
+	background-color:#006ec7;
+}
+
+.language-progress {
+	background-color:#006ec7;
+}
+
