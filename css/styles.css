@@ -1,19 +1,20 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: Lato, Impact, Haettenschweiler, Cambria, 'Hoefler Text', 'Liberation Serif', Times, Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif''serif''Arial Black', 'sans-serif'Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Lato';
 	color: #1e213d;
 	background-color: #1e213d;
 }
-h1 a {
-	color:#006ec7;
-}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
+
+h5 { font-style: normal;
+}
 
 .resume-header {
     background-color: #e0f0ff;
@@ -22,7 +23,6 @@ h1 a {
 .resume-main {
 	background-color: #fffefc;
 }
-
 .resume-aside {
 	background-color: #fff0e0;
 }
@@ -55,16 +55,3 @@ h1 a {
 .language-progress {
 	background-color:#006ec7;
 }
-
-.language-progress {
-	background-color:#006ec7;
-}
-
-.language-progress {
-	background-color:#006ec7;
-}
-
-.language-progress {
-	background-color:#006ec7;
-}
-
